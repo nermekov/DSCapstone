@@ -1,10 +1,10 @@
 Основные файлы c исследованием это
 - DAC_Model_training.ipynb
 - Data_generation.ipynb
-- EDA.ipynb
+- EDA.ipynb  
 Среда для обучения Google colab, машина L4
 
-Демо запускаеися через app.py, streamit
+Демо запускается через app.py(streamit)
 можно как через докер, так и через Windows Subsystem for Linux 
 
 
