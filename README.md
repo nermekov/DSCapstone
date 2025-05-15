@@ -6,7 +6,7 @@
 
 Демо запускается через app.py(streamit)
 можно как через докер, так и через Windows Subsystem for Linux 
-
+Информация про датасет в EDA.ipynb  
 
 
 Download musdb18 and paste it to project folder, folder name should be musdb18
