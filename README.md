@@ -1,3 +1,5 @@
+Тема:Очистка музыки от шума *дыхания
+
 Основные файлы c исследованием это
 - DAC_Model_training.ipynb
 - Data_generation.ipynb
